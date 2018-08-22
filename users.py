@@ -1,8 +1,9 @@
 tomorchard = [
-""
+"show interface description"
 ]
 
+tomorchard_str = "\n".join(tomorchard)
 
 users = [
-tomorchard
+tomorchard_cmd
 ]
