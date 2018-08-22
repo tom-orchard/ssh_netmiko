@@ -5,5 +5,5 @@ tomorchard = [
 tomorchard_str = "\n".join(tomorchard)
 
 users = [
-tomorchard_cmd
+tomorchard_str
 ]
